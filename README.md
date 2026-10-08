@@ -24,10 +24,10 @@
 
 | Tên mã hóa | Loại mã hóa | Miêu tả mã hóa | Link |
 |:---|:---|:---:|:---|
-| Ceasar | Đối xứng |Thuật toán mã hóa đối xứng cổ điển, dịch chuyển các ký tự trong bảng chữ cái dựa trên một khóa cố định | [Ceasar](https://github.com/trgchinhh/Ceasar-encryption) |
-| Symmetric | Đối xứng | Sử dụng 2 khóa K1, K2 kết hợp các phép biến đổi XOR, NOT, xoay bit qua R vòng lặp để mã hóa và giải mã | [Symmetric](https://github.com/trgchinhh/Symmetric-encryption) |
-| Asymmetric | Bất đối xứng | Thuật toán RSA dựa trên tích của 2 số nguyên tố lớn p × q, dùng khóa công khai (e, n) để mã hóa và khóa riêng tư (d, n) để giải mã | [Asymmetric](https://github.com/trgchinhh/Asymmetric-encryption) |
-| Playfair | Đối xứng | Thuật toán mã hóa đối xứng cổ điển, mã hóa theo từng cặp ký tự dựa trên ma trận 5x5 sinh từ một từ khóa | [Playfair](https://github.com/trgchinhh/Playfair-encryption) |
+| Ceasar | Đối xứng |Thuật toán mã hóa đối xứng cổ điển, dịch chuyển các ký tự trong bảng chữ cái dựa trên một khóa cố định | [Ceasar](https://github.com/trgchinhh/encryptions-csharp/tree/main/M%C3%A3%20h%C3%B3a%20Ceasar) |
+| Symmetric | Đối xứng | Sử dụng 2 khóa K1, K2 kết hợp các phép biến đổi XOR, NOT, xoay bit qua R vòng lặp để mã hóa và giải mã | [Symmetric](https://github.com/trgchinhh/encryptions-csharp/tree/main/M%C3%A3%20h%C3%B3a%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng) |
+| Asymmetric | Bất đối xứng | Thuật toán RSA dựa trên tích của 2 số nguyên tố lớn p × q, dùng khóa công khai (e, n) để mã hóa và khóa riêng tư (d, n) để giải mã | [Asymmetric](https://github.com/trgchinhh/encryptions-csharp/tree/main/M%C3%A3%20h%C3%B3a%20b%E1%BA%A5t%20%C4%91%E1%BB%91i%20x%E1%BB%A9ng) |
+| Playfair | Đối xứng | Thuật toán mã hóa đối xứng cổ điển, mã hóa theo từng cặp ký tự dựa trên ma trận 5x5 sinh từ một từ khóa | [Playfair](https://github.com/trgchinhh/encryptions-csharp/tree/main/M%C3%A3%20h%C3%B3a%20Playfair) |
 
 ---
 
